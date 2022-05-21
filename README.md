@@ -148,11 +148,6 @@ It's my first time deploying a package, so if you want to add something to it yo
 
 <br />
 <br>
-[website]: https://aasharwahla.com
-[twitter]: https://twitter.com/AasharWahla
-[youtube]: https://youtube.com/AasharWahla
-[instagram]: https://instagram.com/aashar.wahla
-[linkedin]: https://linkedin.com/in/AasharWahla
 
 <br>
 <br>
@@ -165,3 +160,9 @@ It's my first time deploying a package, so if you want to add something to it yo
 <br>
 
 ## Thanks
+
+[website]: https://aasharwahla.com
+[twitter]: https://twitter.com/AasharWahla
+[youtube]: https://youtube.com/AasharWahla
+[instagram]: https://instagram.com/aashar.wahla
+[linkedin]: https://linkedin.com/in/AasharWahla
