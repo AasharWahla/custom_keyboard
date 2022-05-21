@@ -33,15 +33,104 @@ start using the package.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+Constructor looks something like this:
 
 ```dart
-const like = 'sample';
+const CustomKeyboard({
+    Key? key,
+    required this.backgroundColor,
+    required this.bottomPaddingColor,
+    required this.bottomPaddingHeight,
+    required this.keyboardHeight,
+    required this.keyboardWidth,
+    required this.onChange,
+    required this.onTapColor,
+    required this.textColor,
+    required this.keybordButtonColor,
+    required this.elevation,
+    required this.controller,
+  })
 ```
+
+I didn't want to make a
+
+```dart
+    required this.backgroundColor,
+```
+
+This is backgroud color for the keyboard.
+
+```dart
+    required this.bottomPaddingColor,
+```
+
+Color for the bottom padding.
+
+```dart
+    required this.bottomPaddingHeight,
+```
+
+This parameter defines how much space you would like to be left from the bottom of the keyboard. **This is not added to the total height of the keyboard**
+
+```dart
+    required this.keyboardHeight,
+```
+
+Total height of the keyboard.
+
+```dart
+    required this.keyboardWidth,
+```
+
+Total width of the keyboard
+
+```dart
+    required this.onChange,
+```
+
+**Function** which will execute on value change in keyboard.
+
+```dart
+    required this.onTapColor,
+```
+
+Color of the button, when it get tapped.
+
+```dart
+    required this.textColor,
+```
+
+Color of the character which are displayed on the keyboard.
+
+```dart
+    required this.keybordButtonColor,
+```
+
+Color of the keyboard button.
+
+```dart
+    required this.elevation,
+```
+
+**MaterialStateProperty.all< double>** this represents elevation of individual keys in the keyboard
+
+```dart
+    required this.controller,
+```
+
+You ave to pass it, whether or not you use it.
+
+```dart
+   CKController controller = CKController();
+```
+
+## Important
+
+Make sure to use **_CKController_**.
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+It's my first time deploying a package, so if you want to add something to it you are welcomed.<br>
+<br>
+
+# Thanks
