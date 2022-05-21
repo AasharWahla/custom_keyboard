@@ -132,5 +132,33 @@ Make sure to use **_CKController_**.
 
 It's my first time deploying a package, so if you want to add something to it you are welcomed.<br>
 <br>
+<br>
+<br>
 
-# Thanks
+### Connect with me:
+
+[<img align="left" alt="aashar wahla" width="22px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" />][website]
+[<img align="left" alt="AasharWahla | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
+[<img align="left" alt="AasharWahla | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" alt="AasharWahla | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="AasharWahla | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
+
+<br />
+<br>
+[website]: https://aasharwahla.com
+[twitter]: https://twitter.com/AasharWahla
+[youtube]: https://youtube.com/AasharWahla
+[instagram]: https://instagram.com/aashar.wahla
+[linkedin]: https://linkedin.com/in/AasharWahla
+
+<br>
+<br>
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/AasharWahlaCustomKeyboard/count.svg" alt ="Loading">
+
+<br>
+<br>
+
+## Thanks
